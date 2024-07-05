@@ -13,6 +13,8 @@ The main synopsis of the project is to create an interactive java project that r
 ## Movie Recommendations to user
 
 <img width="914" alt="image" src="https://github.com/Narmadha-14/Java-CapstoneProject/assets/174797261/f51e9389-9cda-40d8-ba39-23e4e04e4928">
+<img width="881" alt="image" src="https://github.com/Narmadha-14/Java-CapstoneProject/assets/174797261/4606d179-1627-4080-a6b8-b976ae4fba72">
+
 
 
 
