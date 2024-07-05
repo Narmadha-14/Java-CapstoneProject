@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment1.params=filename
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment10.params=ans
+comment10.target=int\ diffMov(java.util.ArrayList)
+comment11.params=
+comment11.target=void\ testLoadRaters()
+comment2.params=ans
+comment2.target=int\ comedyMov(java.util.ArrayList)
+comment3.params=ans\ len
+comment3.target=int\ findLen(java.util.ArrayList,\ int)
+comment4.params=ans
+comment4.target=void\ maxMovByDir(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ testLoadMovies()
+comment6.params=filename
+comment6.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment7.params=ans\ ind
+comment7.target=int\ numRaterID(java.util.ArrayList,\ java.lang.String)
+comment8.params=ans
+comment8.target=void\ maxRatings(java.util.ArrayList)
+comment9.params=ans\ tmp
+comment9.target=int\ numRatingforMov(java.util.ArrayList,\ java.lang.String)
+numComments=12
