@@ -4,7 +4,7 @@ The main synopsis of the project is to create an interactive java project that r
 
 <img width="880" alt="image" src="https://github.com/Narmadha-14/Java-CapstoneProject/assets/174797261/1ff29571-f746-4927-a40e-06e2c3633c88">
 
-<img width="895" alt="image" src="https://github.com/Narmadha-14/Java-CapstoneProject/assets/174797261/0b7e3de4-dae1-47ad-b752-5fa5203cf535">
+<img width="890" alt="image" src="https://github.com/Narmadha-14/Java-CapstoneProject/assets/174797261/7faf69c5-aff7-4996-8d2f-6fe0a761a56a">
 
 ## Movie Suggestions for the Users to rate
 
